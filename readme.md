@@ -28,8 +28,13 @@ cd AdiixyzDiscordBot
 npm i
 node .
 ```
+### Run in Repl.it
+[![Run on Repl.it](https://repl.it/badge/github/Adiixyz/AdiixyzDiscordBot)](https://repl.it/github/Adiixyz/AdiixyzDiscordBot)
 
-### Edit required value in `config.js`
+### Deploy to heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adiixyz/AdiixyzDiscordBot)
+
+#### Edit required value in `config.js`
 
 ```javascript
 module.exports = {
